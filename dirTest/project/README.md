@@ -1,10 +1,13 @@
 <h1> Evaluación 1 </h1>
 
-Utilicé github y gitbash para la realización del mismo, también me tocó instalar visual studio code para los scripts, desde windows debido a que tuve dificultades con la interfaz de linux y fue más fácil para mí realizar todo desde windows.
+-Utilicé github para clonar en mi pc y gitbash para la realización del mismo, también me tocó instalar visual studio code para los scripts, desde windows debido a que tuve dificultades con la interfaz de linux y fue más fácil para mí realizar todo desde windows.
 
-https://github.com/hacUPB/evaluacion-1-HenderWolf
+-
 
-Comandos utilizados: 
+-https://github.com/hacUPB/evaluacion-1-HenderWolf
+
+-Comandos utilizados: 
+$ code .
 $ git init
 $ git add wcat.c
 $ git add README.md
