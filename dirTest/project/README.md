@@ -7,8 +7,12 @@
 -https://github.com/hacUPB/evaluacion-1-HenderWolf
 
 -Comandos utilizados: 
-$ code .
 $ git init
+$ cd Documentos/
+$ git clone https://github.com/hacUPB/evaluacion-1-HenderWolf
+$ cd dirTest/
+$ cd project/
+$ code .
 $ git add wcat.c
 $ git add README.md
 $ git add test-wcat.sh
